@@ -22,7 +22,7 @@ title: CodePkg
 email: sgauravs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blogs and articles primarily on Java.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "codepkg" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sgauravs
 github_username:  gaurav-sr
