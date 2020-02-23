@@ -28,7 +28,7 @@ twitter_username: sgauravs
 github_username:  gaurav-sr
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
